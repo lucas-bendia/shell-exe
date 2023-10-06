@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 
 for (( i=2; i<=14; i++ ))
 do
